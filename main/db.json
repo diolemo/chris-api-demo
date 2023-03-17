@@ -1,0 +1,66 @@
+{
+	"orders": [
+		{
+			"id": "order1",
+			"stock": [
+				"st10000",
+				"st10001"
+			]
+		},
+		{
+			"id": "order2",
+			"stock": [
+				"st20000",
+				"st20001"
+			]
+		},
+		{
+			"id": "order3",
+			"stock": [
+				"st30000",
+				"st30001"
+			]
+		},
+		{
+			"id": "order4",
+			"stock": [
+				"st40000",
+				"st40001"
+			]
+		}
+	],
+	"stocks": [
+		{
+			"id": "st10000",
+			"serial": "sn210f35b464eb9a3c5",
+		},
+		{
+			"id": "st10001",
+			"serial": "sn2bd547bf80ed81b9c",
+		},
+		{
+			"id": "st20000",
+			"serial": "sndf2b4c82c03e62715",
+		},
+		{
+			"id": "st20001",
+			"serial": "sneb92c6f03da335b6b",
+		},
+		{
+			"id": "st30000",
+			"serial": "sn814400ee7ed492a56",
+		},
+		{
+			"id": "st30001",
+			"serial": "sn4a31961a5859127d2",
+		},
+		{
+			"id": "st40000",
+			"serial": "snf63faa02ca71b9a38",
+		},
+		{
+			"id": "st40001",
+			"serial": "sn680a46d5cec363f64",
+		}
+	]
+}
